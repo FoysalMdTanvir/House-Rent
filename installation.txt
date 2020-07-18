@@ -1,0 +1,49 @@
+ Built with Core PHP, PHP PDO, Bootstrap4, Jquery, MYSQL.
+
+
+
+1. xamp  
+
+
+2. xamp - extract the zip file to inside htdocs
+
+
+3. start xamp server
+
+
+
+4. open browser and type - localhost/House-Rent 
+
+
+show error
+
+
+
+
+5. goto localhost/phpmyadmin 
+
+and create database newrent
+
+and import newrent.sql file
+
+
+
+6. finally project is successfully installed 
+
+next see how to work it
+
+admin login 
+
+username- tanvirfoysal54 
+
+password- 12345 
+
+
+Register as new user 
+
+
+thanks for reading .....
+
+
+
+
